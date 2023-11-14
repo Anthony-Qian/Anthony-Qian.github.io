@@ -47,9 +47,9 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311122254494.png&#34; alt=&#34;image-20231112224734881&#34;&gt;&lt;/p&gt;
 </content>
-        <category term="3D建模" scheme="http://example.com/categories/3D%E5%BB%BA%E6%A8%A1/" />
-        <category term="Blender" scheme="http://example.com/categories/3D%E5%BB%BA%E6%A8%A1/Blender/" />
-        <category term="Blender技巧" scheme="http://example.com/categories/3D%E5%BB%BA%E6%A8%A1/Blender/Blender%E6%8A%80%E5%B7%A7/" />
+        <category term="3D建模" scheme="http://example.com/categories/Blender/" />
+        <category term="Blender" scheme="http://example.com/categories/Blender/note/" />
+        <category term="Blender技巧" scheme="http://example.com/categories/Blender/note/Blender%E6%8A%80%E5%B7%A7/" />
         <category term="建模" scheme="http://example.com/tags/%E5%BB%BA%E6%A8%A1/" />
         <updated>2023-11-14T03:56:48.898Z</updated>
     </entry>
@@ -102,9 +102,9 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Hexo" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/" />
-        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/Theme-Shoka-Documentation/" />
+        <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+        <category term="Hexo" scheme="http://example.com/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/theme-shoka-doc/" />
         <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
         <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2023-11-12T11:30:48.000Z</updated>
@@ -143,9 +143,9 @@
 &lt;p&gt;打开 PicGo , 点击 图床设置 --&amp;gt; GitHub 图床 ，在 设定仓库名 一栏填写仓库名，格式为 账户名 / 仓库名 比如我的账户名为 mint233 , 仓库名为 images ，即下图红框中所示&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311122217478.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </content>
-        <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Hexo" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/" />
-        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/Theme-Shoka-Documentation/" />
+        <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+        <category term="Hexo" scheme="http://example.com/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/theme-shoka-doc/" />
         <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
         <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2023-11-12T10:30:48.000Z</updated>
@@ -640,9 +640,9 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;graph LR&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    A[Square Rect] -- Link text --&amp;gt; B((Circle))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    A --&amp;gt; C(Round Rect)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    B --&amp;gt; D&amp;#123;Rhombus&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    C --&amp;gt; D&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sequenceDiagram&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    loop Daily query&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        Alice-&amp;gt;&amp;gt;Bob: Hello Bob, how are you?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        alt is sick&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            Bob-&amp;gt;&amp;gt;Alice: Not so good :(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        else is well&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            Bob-&amp;gt;&amp;gt;Alice: Feeling fresh like a daisy&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        end&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        opt Extra response&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            Bob-&amp;gt;&amp;gt;Alice: Thanks for asking&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        end&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    end&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
-        <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Hexo" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/" />
-        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/Theme-Shoka-Documentation/" />
+        <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+        <category term="Hexo" scheme="http://example.com/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/theme-shoka-doc/" />
         <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
         <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2020-08-13T12:15:48.000Z</updated>
@@ -794,9 +794,9 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
 类似写成 &lt;code&gt;zh_CN&lt;/code&gt;  这样是不可以的。&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
-        <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Hexo" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/" />
-        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/Theme-Shoka-Documentation/" />
+        <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+        <category term="Hexo" scheme="http://example.com/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/theme-shoka-doc/" />
         <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
         <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2020-08-13T11:42:48.000Z</updated>
@@ -934,9 +934,9 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 如果修改过主题默认 &lt;code&gt;_config.yml&lt;/code&gt; ，记得更新主题时，末尾的 &lt;code&gt;vendors&lt;/code&gt;  也要及时修改。&lt;/p&gt;
 &lt;/div&gt;
 </content>
-        <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Hexo" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/" />
-        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/Theme-Shoka-Documentation/" />
+        <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+        <category term="Hexo" scheme="http://example.com/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/theme-shoka-doc/" />
         <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
         <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2020-08-13T11:26:48.000Z</updated>
@@ -1040,9 +1040,9 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;algolia:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;appId:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#Your appId&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;apiKey:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#Your apiKey&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;adminApiKey:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#Your adminApiKey&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;chunkSize:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;5000&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;indexName:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#&amp;quot;shoka&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;fields:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;title&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#必须配置&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;path&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#必须配置&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;categories&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#推荐配置&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;content:strip:truncate,0,2000&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;gallery&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;photos&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;tags&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;h1 id=&#34;feed配置建议&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#feed配置建议&#34;&gt;#&lt;/a&gt; feed 配置建议&lt;/h1&gt;
 &lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;keywords:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#站点关键词，用“,”分隔&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;feed:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;limit:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;20&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;order_by:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;-date&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;tag_dir:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;category_dir:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;rss:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/rss.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;rss.xml&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;atom:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/atom.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;atom.xml&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;jsonFeed:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/json.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;feed.json&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
-        <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Hexo" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/" />
-        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/Theme-Shoka-Documentation/" />
+        <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+        <category term="Hexo" scheme="http://example.com/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/theme-shoka-doc/" />
         <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
         <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2020-08-13T11:16:48.000Z</updated>
@@ -1167,9 +1167,9 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 🔧 新增多枚 icon，包括豆瓣 &lt;code&gt;i-douban&lt;/code&gt;  等&lt;br&gt;
 🔧 一些显示问题&lt;/p&gt;
 </content>
-        <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Hexo" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/" />
-        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Hexo/Theme-Shoka-Documentation/" />
+        <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+        <category term="Hexo" scheme="http://example.com/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/theme-shoka-doc/" />
         <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
         <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2020-08-13T11:15:48.000Z</updated>
