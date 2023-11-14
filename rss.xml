@@ -14,7 +14,7 @@
         <lastBuildDate>Tue, 14 Nov 2023 17:44:32 +1030</lastBuildDate>
         <item>
             <guid isPermalink="true">http://example.com/2023/11/14/Blender/note/blender-tec/blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/</guid>
-            <title>blender 预制</title>
+            <title>blender 预设资产</title>
             <link>http://example.com/2023/11/14/Blender/note/blender-tec/blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/</link>
             <category term="3D建模" scheme="http://example.com/categories/Blender/" />
             <category term="Blender" scheme="http://example.com/categories/Blender/note/" />
@@ -40,9 +40,9 @@
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311141810238.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;第四步-预设&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第四步-预设&#34;&gt;#&lt;/a&gt; 第四步 预设&lt;/h4&gt;
 &lt;p&gt;再次打开 blender，显示是没有的，这个就需要预设了&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311141810427.pn&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311141820558.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;点击偏好设置&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311141811280.pn&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311141821858.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;设定为保存资产的路径&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311141811248.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;然后刷新下，就会显示了，当然此方法同样使用模型资产库&lt;/p&gt;
