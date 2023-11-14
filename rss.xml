@@ -10,8 +10,45 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Tue, 14 Nov 2023 14:26:48 +1030</pubDate>
-        <lastBuildDate>Tue, 14 Nov 2023 14:26:48 +1030</lastBuildDate>
+        <pubDate>Tue, 14 Nov 2023 17:44:32 +1030</pubDate>
+        <lastBuildDate>Tue, 14 Nov 2023 17:44:32 +1030</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/11/14/Blender/note/blender-tec/blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/</guid>
+            <title>blender 预制</title>
+            <link>http://example.com/2023/11/14/Blender/note/blender-tec/blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/</link>
+            <category term="3D建模" scheme="http://example.com/categories/Blender/" />
+            <category term="Blender" scheme="http://example.com/categories/Blender/note/" />
+            <category term="Blender技巧" scheme="http://example.com/categories/Blender/note/Blender%E6%8A%80%E5%B7%A7/" />
+            <category term="建模" scheme="http://example.com/tags/%E5%BB%BA%E6%A8%A1/" />
+            <pubDate>Tue, 14 Nov 2023 17:44:32 +1030</pubDate>
+            <description><![CDATA[ &lt;h4 id=&#34;第一步&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一步&#34;&gt;#&lt;/a&gt; 第一步&lt;/h4&gt;
+&lt;p&gt;随便设定一个材质，以玻璃为例子&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/202311141746886.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;第二步保存资产&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二步保存资产&#34;&gt;#&lt;/a&gt; 第二步保存资产&lt;/h4&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311141753317.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;点击右键&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/image-20231031194108720.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;设定为标记资产&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/image-20231031194149537.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;第三步-找到资产&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第三步-找到资产&#34;&gt;#&lt;/a&gt; 第三步 找到资产&lt;/h4&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/image-20231031194404016.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;点击资产浏览器&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/image-20231031194511468.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;第三步-保存资产&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第三步-保存资产&#34;&gt;#&lt;/a&gt; 第三步 保存资产&lt;/h4&gt;
+&lt;p&gt;1. 按键 ctrl+s&lt;/p&gt;
+&lt;p&gt;2. 新建文件夹 (不能为中文)&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/image-20231031194925874.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;第四步-预设&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第四步-预设&#34;&gt;#&lt;/a&gt; 第四步 预设&lt;/h4&gt;
+&lt;p&gt;再次打开 blender，显示是没有的，这个就需要预设了&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/image-20231031195320776.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;点击偏好设置&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/image-20231031195605700.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;设定为保存资产的路径&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/image-20231031195818608.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;然后刷新下，就会显示了，当然此方法同样使用模型资产库&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E9%A2%84%E5%88%B6%E8%AE%BE%E5%AE%9A/image-20231031195915736.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2023/11/14/CG/</guid>
             <title>CG</title>
