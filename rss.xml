@@ -12,6 +12,9 @@
         <language>zh-CN</language>
         <pubDate>Tue, 14 Nov 2023 21:12:48 +1030</pubDate>
         <lastBuildDate>Tue, 14 Nov 2023 21:12:48 +1030</lastBuildDate>
+        <category term="blender" />
+        <category term=" hexo" />
+        <category term=" java" />
         <item>
             <guid isPermalink="true">http://example.com/2023/11/14/computer-science/note/theme-shoka-doc/gitconf/</guid>
             <title>Step.7 git多账户部署</title>

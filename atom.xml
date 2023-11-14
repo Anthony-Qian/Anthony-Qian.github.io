@@ -9,6 +9,9 @@
       <name>Anthony</name>
     </author>
     <updated>2023-11-14T10:42:48.000Z</updated>
+    <category term="blender" />
+    <category term=" hexo" />
+    <category term=" java" />
     <entry>
         <id>http://example.com/2023/11/14/computer-science/note/theme-shoka-doc/gitconf/</id>
         <title>Step.7 git多账户部署</title>
