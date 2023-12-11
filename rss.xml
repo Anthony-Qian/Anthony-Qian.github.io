@@ -10,11 +10,41 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Tue, 14 Nov 2023 21:12:48 +1030</pubDate>
-        <lastBuildDate>Tue, 14 Nov 2023 21:12:48 +1030</lastBuildDate>
+        <pubDate>Thu, 30 Nov 2023 13:59:26 +1030</pubDate>
+        <lastBuildDate>Thu, 30 Nov 2023 13:59:26 +1030</lastBuildDate>
         <category term="blender" />
         <category term=" hexo" />
         <category term=" java" />
+        <item>
+            <guid isPermalink="true">https://anthony-qian.github.io/2023/11/30/Blender/note/blender-tec/blender%E5%A4%B4%E9%83%A8/</guid>
+            <title>blender头部</title>
+            <link>https://anthony-qian.github.io/2023/11/30/Blender/note/blender-tec/blender%E5%A4%B4%E9%83%A8/</link>
+            <category term="3D建模" scheme="https://anthony-qian.github.io/categories/Blender/" />
+            <category term="Blender" scheme="https://anthony-qian.github.io/categories/Blender/note/" />
+            <category term="Blender技巧" scheme="https://anthony-qian.github.io/categories/Blender/note/Blender%E6%8A%80%E5%B7%A7/" />
+            <category term="建模" scheme="https://anthony-qian.github.io/tags/%E5%BB%BA%E6%A8%A1/" />
+            <pubDate>Thu, 30 Nov 2023 13:59:26 +1030</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311301400364.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://anthony-qian.github.io/2023/11/25/Blender/note/blender-tec/blender%E5%BF%AB%E9%80%9F%E5%BC%80%E5%90%AF%E8%A1%B0%E5%87%8F/</guid>
+            <title>blender 快速开启衰减</title>
+            <link>https://anthony-qian.github.io/2023/11/25/Blender/note/blender-tec/blender%E5%BF%AB%E9%80%9F%E5%BC%80%E5%90%AF%E8%A1%B0%E5%87%8F/</link>
+            <category term="3D建模" scheme="https://anthony-qian.github.io/categories/Blender/" />
+            <category term="Blender" scheme="https://anthony-qian.github.io/categories/Blender/note/" />
+            <category term="Blender技巧" scheme="https://anthony-qian.github.io/categories/Blender/note/Blender%E6%8A%80%E5%B7%A7/" />
+            <category term="建模" scheme="https://anthony-qian.github.io/tags/%E5%BB%BA%E6%A8%A1/" />
+            <pubDate>Sat, 25 Nov 2023 16:31:27 +1030</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;按下-o键&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#按下-o键&#34;&gt;#&lt;/a&gt; 按下 ‘O’键&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311251632316.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;alt-shiftts&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#alt-shiftts&#34;&gt;#&lt;/a&gt; ALT+ SHIFTT+S&lt;/h3&gt;
+&lt;p&gt;先 alt+ 边&lt;/p&gt;
+&lt;p&gt;之后 ALT+ SHIFTT+S&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311261705083.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311261705652.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://anthony-qian.github.io/2023/11/14/computer-science/note/theme-shoka-doc/gitconf/</guid>
             <title>Step.7 git多账户部署</title>
@@ -244,6 +274,66 @@ rsa_work&lt;br&gt;
 &lt;h2 id=&#34;picgo-上的配置&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#picgo-上的配置&#34;&gt;#&lt;/a&gt; PicGo 上的配置&lt;/h2&gt;
 &lt;p&gt;打开 PicGo , 点击 图床设置 --&amp;gt; GitHub 图床 ，在 设定仓库名 一栏填写仓库名，格式为 账户名 / 仓库名 比如我的账户名为 mint233 , 仓库名为 images ，即下图红框中所示&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311122217478.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://anthony-qian.github.io/2023/11/05/Blender/note/blender-tec/%E5%88%B6%E4%BD%9C%E6%9E%95%E5%A4%B4/</guid>
+            <title>制作枕头</title>
+            <link>https://anthony-qian.github.io/2023/11/05/Blender/note/blender-tec/%E5%88%B6%E4%BD%9C%E6%9E%95%E5%A4%B4/</link>
+            <category term="3D建模" scheme="https://anthony-qian.github.io/categories/Blender/" />
+            <category term="Blender" scheme="https://anthony-qian.github.io/categories/Blender/note/" />
+            <category term="Blender技巧" scheme="https://anthony-qian.github.io/categories/Blender/note/Blender%E6%8A%80%E5%B7%A7/" />
+            <category term="建模" scheme="https://anthony-qian.github.io/tags/%E5%BB%BA%E6%A8%A1/" />
+            <pubDate>Sun, 05 Nov 2023 15:56:34 +1030</pubDate>
+            <description><![CDATA[ &lt;p&gt;细分&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121010750.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ctrl +E&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121010923.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ctrl+R&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121010385.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择布料&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011000.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;找到压力，设定数值为 3&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011645.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;再找到自碰撞&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011933.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;设定重力为 0&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011910.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;返回非编辑模式，按下空格键&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011950.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://anthony-qian.github.io/2023/10/21/Blender/note/blender-tec/blender%E6%8A%80%E5%B7%A7%E7%AF%87/</guid>
+            <title>blender技巧篇</title>
+            <link>https://anthony-qian.github.io/2023/10/21/Blender/note/blender-tec/blender%E6%8A%80%E5%B7%A7%E7%AF%87/</link>
+            <category term="3D建模" scheme="https://anthony-qian.github.io/categories/Blender/" />
+            <category term="Blender" scheme="https://anthony-qian.github.io/categories/Blender/note/" />
+            <category term="Blender技巧" scheme="https://anthony-qian.github.io/categories/Blender/note/Blender%E6%8A%80%E5%B7%A7/" />
+            <category term="建模" scheme="https://anthony-qian.github.io/tags/%E5%BB%BA%E6%A8%A1/" />
+            <pubDate>Sat, 21 Oct 2023 17:54:16 +1030</pubDate>
+            <description><![CDATA[ &lt;h4 id=&#34;重叠面解决方案&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#重叠面解决方案&#34;&gt;#&lt;/a&gt; 重叠面解决方案&lt;/h4&gt;
+&lt;p&gt;选中透视&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007996.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;按键 ‘M’&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007669.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;会显示，并且点击未选中项&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007514.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;挤出点&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#挤出点&#34;&gt;#&lt;/a&gt; 挤出点&lt;/h4&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007367.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ctrl+i 进行反选&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E6%8A%80%E5%B7%A7%E7%AF%87/image-20231021193637180.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;按 DEL 键&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007513.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;blender%E6%8A%80%E5%B7%A7%E7%AF%87/image-20231021193753080.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;按‘E’&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007095.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;各个面内插&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#各个面内插&#34;&gt;#&lt;/a&gt; 各个面内插&lt;/h4&gt;
+&lt;p&gt;双击 ‘I’ 键&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007980.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;3d-游标&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3d-游标&#34;&gt;#&lt;/a&gt; 3D 游标&lt;/h4&gt;
+&lt;p&gt;游标误触&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121008635.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>

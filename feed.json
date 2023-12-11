@@ -7,6 +7,32 @@
     "home_page_url": "https://anthony-qian.github.io",
     "items": [
         {
+            "id": "https://anthony-qian.github.io/2023/11/30/Blender/note/blender-tec/blender%E5%A4%B4%E9%83%A8/",
+            "url": "https://anthony-qian.github.io/2023/11/30/Blender/note/blender-tec/blender%E5%A4%B4%E9%83%A8/",
+            "title": "blender头部",
+            "date_published": "2023-11-30T03:29:26.800Z",
+            "content_html": "<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311301400364.png\" alt=\"\"></p>\n",
+            "tags": [
+                "3D建模",
+                "Blender",
+                "Blender技巧",
+                "建模"
+            ]
+        },
+        {
+            "id": "https://anthony-qian.github.io/2023/11/25/Blender/note/blender-tec/blender%E5%BF%AB%E9%80%9F%E5%BC%80%E5%90%AF%E8%A1%B0%E5%87%8F/",
+            "url": "https://anthony-qian.github.io/2023/11/25/Blender/note/blender-tec/blender%E5%BF%AB%E9%80%9F%E5%BC%80%E5%90%AF%E8%A1%B0%E5%87%8F/",
+            "title": "blender 快速开启衰减",
+            "date_published": "2023-11-25T06:01:27.428Z",
+            "content_html": "<h3 id=\"按下-o键\"><a class=\"markdownIt-Anchor\" href=\"#按下-o键\">#</a> 按下 ‘O’键</h3>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311251632316.png\" alt=\"\"></p>\n<h3 id=\"alt-shiftts\"><a class=\"markdownIt-Anchor\" href=\"#alt-shiftts\">#</a> ALT+ SHIFTT+S</h3>\n<p>先 alt+ 边</p>\n<p>之后 ALT+ SHIFTT+S</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311261705083.png\" alt=\"\"></p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202311261705652.png\" alt=\"\"></p>\n",
+            "tags": [
+                "3D建模",
+                "Blender",
+                "Blender技巧",
+                "建模"
+            ]
+        },
+        {
             "id": "https://anthony-qian.github.io/2023/11/14/computer-science/note/theme-shoka-doc/gitconf/",
             "url": "https://anthony-qian.github.io/2023/11/14/computer-science/note/theme-shoka-doc/gitconf/",
             "title": "Step.7 git多账户部署",
@@ -80,6 +106,32 @@
                 "Theme Shoka Documentation",
                 "Hexo",
                 "教程"
+            ]
+        },
+        {
+            "id": "https://anthony-qian.github.io/2023/11/05/Blender/note/blender-tec/%E5%88%B6%E4%BD%9C%E6%9E%95%E5%A4%B4/",
+            "url": "https://anthony-qian.github.io/2023/11/05/Blender/note/blender-tec/%E5%88%B6%E4%BD%9C%E6%9E%95%E5%A4%B4/",
+            "title": "制作枕头",
+            "date_published": "2023-11-05T05:26:34.000Z",
+            "content_html": "<p>细分</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121010750.png\" alt=\"\"></p>\n<p>ctrl +E</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121010923.png\" alt=\"\"></p>\n<p>ctrl+R</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121010385.png\" alt=\"\"></p>\n<p>选择布料</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011000.png\" alt=\"\"></p>\n<p>找到压力，设定数值为 3</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011645.png\" alt=\"\"></p>\n<p>再找到自碰撞</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011933.png\" alt=\"\"></p>\n<p>设定重力为 0</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011910.png\" alt=\"\"></p>\n<p>返回非编辑模式，按下空格键</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011950.png\" alt=\"\"></p>\n",
+            "tags": [
+                "3D建模",
+                "Blender",
+                "Blender技巧",
+                "建模"
+            ]
+        },
+        {
+            "id": "https://anthony-qian.github.io/2023/10/21/Blender/note/blender-tec/blender%E6%8A%80%E5%B7%A7%E7%AF%87/",
+            "url": "https://anthony-qian.github.io/2023/10/21/Blender/note/blender-tec/blender%E6%8A%80%E5%B7%A7%E7%AF%87/",
+            "title": "blender技巧篇",
+            "date_published": "2023-10-21T07:24:16.000Z",
+            "content_html": "<h4 id=\"重叠面解决方案\"><a class=\"markdownIt-Anchor\" href=\"#重叠面解决方案\">#</a> 重叠面解决方案</h4>\n<p>选中透视</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007996.png\" alt=\"\"></p>\n<p>按键 ‘M’</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007669.png\" alt=\"\"></p>\n<p>会显示，并且点击未选中项</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007514.png\" alt=\"\"></p>\n<h4 id=\"挤出点\"><a class=\"markdownIt-Anchor\" href=\"#挤出点\">#</a> 挤出点</h4>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007367.png\" alt=\"\"></p>\n<p>ctrl+i 进行反选</p>\n<p><img data-src=\"blender%E6%8A%80%E5%B7%A7%E7%AF%87/image-20231021193637180.png\" alt=\"\"></p>\n<p>按 DEL 键</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007513.png\" alt=\"\"></p>\n<p><img data-src=\"blender%E6%8A%80%E5%B7%A7%E7%AF%87/image-20231021193753080.png\" alt=\"\"></p>\n<p>按‘E’</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007095.png\" alt=\"\"></p>\n<h4 id=\"各个面内插\"><a class=\"markdownIt-Anchor\" href=\"#各个面内插\">#</a> 各个面内插</h4>\n<p>双击 ‘I’ 键</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121007980.png\" alt=\"\"></p>\n<h4 id=\"3d-游标\"><a class=\"markdownIt-Anchor\" href=\"#3d-游标\">#</a> 3D 游标</h4>\n<p>游标误触</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121008635.png\" alt=\"\"></p>\n",
+            "tags": [
+                "3D建模",
+                "Blender",
+                "Blender技巧",
+                "建模"
             ]
         },
         {
