@@ -111,9 +111,22 @@
         {
             "id": "https://anthony-qian.github.io/2023/11/05/Blender/note/blender-tec/%E5%88%B6%E4%BD%9C%E6%9E%95%E5%A4%B4/",
             "url": "https://anthony-qian.github.io/2023/11/05/Blender/note/blender-tec/%E5%88%B6%E4%BD%9C%E6%9E%95%E5%A4%B4/",
-            "title": "制作枕头",
+            "title": "blender制作枕头",
             "date_published": "2023-11-05T05:26:34.000Z",
             "content_html": "<p>细分</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121010750.png\" alt=\"\"></p>\n<p>ctrl +E</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121010923.png\" alt=\"\"></p>\n<p>ctrl+R</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121010385.png\" alt=\"\"></p>\n<p>选择布料</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011000.png\" alt=\"\"></p>\n<p>找到压力，设定数值为 3</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011645.png\" alt=\"\"></p>\n<p>再找到自碰撞</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011933.png\" alt=\"\"></p>\n<p>设定重力为 0</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011910.png\" alt=\"\"></p>\n<p>返回非编辑模式，按下空格键</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121011950.png\" alt=\"\"></p>\n",
+            "tags": [
+                "3D建模",
+                "Blender",
+                "Blender技巧",
+                "建模"
+            ]
+        },
+        {
+            "id": "https://anthony-qian.github.io/2023/10/31/Blender/note/blender-tec/%E4%BF%9D%E5%AD%98%E6%9D%90%E8%B4%A8%E6%96%B9%E6%B3%95/",
+            "url": "https://anthony-qian.github.io/2023/10/31/Blender/note/blender-tec/%E4%BF%9D%E5%AD%98%E6%9D%90%E8%B4%A8%E6%96%B9%E6%B3%95/",
+            "title": "blender保存材质方法",
+            "date_published": "2023-10-31T09:07:07.000Z",
+            "content_html": "<h4 id=\"第一步\"><a class=\"markdownIt-Anchor\" href=\"#第一步\">#</a> 第一步</h4>\n<p>随便设定一个材质，以玻璃为例子</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121017409.png\" alt=\"\"></p>\n<h4 id=\"第二步保存资产\"><a class=\"markdownIt-Anchor\" href=\"#第二步保存资产\">#</a> 第二步保存资产</h4>\n<p><img data-src=\"%E4%BF%9D%E5%AD%98%E6%9D%90%E8%B4%A8%E6%96%B9%E6%B3%95/image-20231031194033138.png\" alt=\"\"></p>\n<p>点击右键</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121017912.png\" alt=\"\"></p>\n<p>设定为标记资产</p>\n<p><img data-src=\"%E4%BF%9D%E5%AD%98%E6%9D%90%E8%B4%A8%E6%96%B9%E6%B3%95/image-20231031194149537.png\" alt=\"\"></p>\n<h4 id=\"第三步-找到资产\"><a class=\"markdownIt-Anchor\" href=\"#第三步-找到资产\">#</a> 第三步 找到资产</h4>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121017399.png\" alt=\"\"></p>\n<p>点击资产浏览器</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121017294.png\" alt=\"\"></p>\n<h4 id=\"第三步-保存资产\"><a class=\"markdownIt-Anchor\" href=\"#第三步-保存资产\">#</a> 第三步 保存资产</h4>\n<p>1. 按键 ctrl+s</p>\n<p>2. 新建文件夹 (不能为中文)</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121018593.png\" alt=\"\"></p>\n<h4 id=\"第四步-预设\"><a class=\"markdownIt-Anchor\" href=\"#第四步-预设\">#</a> 第四步 预设</h4>\n<p>再次打开 blender，显示是没有的，这个就需要预设了</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121018507.png\" alt=\"\"></p>\n<p>点击偏好设置</p>\n<p><img data-src=\"%E4%BF%9D%E5%AD%98%E6%9D%90%E8%B4%A8%E6%96%B9%E6%B3%95/image-20231031195605700.png\" alt=\"\"></p>\n<p>设定为保存资产的路径</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121018287.png\" alt=\"\"></p>\n<p>然后刷新下，就会显示了，当然此方法同样使用模型资产库</p>\n<p><img data-src=\"https://raw.githubusercontent.com/Anthony-Qian/images/main/img/202312121018765.png\" alt=\"\"></p>\n",
             "tags": [
                 "3D建模",
                 "Blender",
